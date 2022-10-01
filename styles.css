@@ -4,6 +4,7 @@ img{height: 150px;
 
 body{background-color: #383838;
     color: #eaeaea;}
+#contact{position: absolute;}
 
     h1, h3{color: #CDBE78;}
     h3{margin-bottom: 8px;}
